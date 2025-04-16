@@ -1,0 +1,26 @@
+Metadata-Version: 2.0
+Name: pyzxcvbn
+Version: 0.8.0
+Summary: UNKNOWN
+Home-page: https://github.com/taxpon/pyzxcvbn
+Author: Takuro Wada
+Author-email: taxpon@gmail.com
+License: MIT
+Description-Content-Type: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: six
+
+=================
+pyzxcvbn
+=================
+
+Python version `zxcvbn <https://github.com/dropbox/zxcvbn>`_.
+There are the same test scripts (but written in not coffee script but python) as the original repository in order to ensure this library will move in the same way.
+
+Install
+-------
+::
+    $ pip install pyzxcvbn
+
+
+
